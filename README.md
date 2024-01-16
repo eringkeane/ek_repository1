@@ -1,2 +1,1 @@
-# ek_repository1
-Repository for INST326
+Erin Keane's GitHub Repository
